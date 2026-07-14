@@ -17,11 +17,19 @@ INSTALL ON A PHONE
   Android (Chrome): menu > Install app / Add to Home screen.
   It launches full-screen with the Healing Souls icon and works offline.
 
+WHAT IT COVERS
+  117 Pevonia products: all facial lines PLUS body, de-aging body, foot,
+  chocolate, sun, bathing, hair, and Spalasium massage oils.
+  Tabs: Products | Services | Order | Why | Ingredients
+  Services groups products by treatment type (facial, body wrap, scrub,
+  foot, massage, etc). Step-by-step Pevonia protocols can be added later
+  once requested from the rep (marketing@pevonia.com).
+
 STAFF WHOLESALE PASSCODE
   The app opens in retail mode. The Staff (wholesale) toggle is locked.
   Current passcode: HSMT5031  (ask Ken to change it anytime)
 
 UPDATING LATER
   Replace index.html (and any changed files) in the repo.
-  In sw.js, bump the version: change "hsmt-pevonia-v1" to v2, v3, etc.,
+  In sw.js, bump the version: bump the cache name (currently "hsmt-pevonia-v2") to v3, v4, etc.,
   so phones pick up the new version on next open.
